@@ -1,0 +1,163 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: Raleway,sans-serif;
+}
+.main{
+  margin: 0px;
+  background-color: black;
+  height: auto;
+  width: 100%;
+}
+nav{
+  
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.div1{
+  display: flex;
+  padding: 28px 50px;
+
+}
+
+.logo1{
+  margin-top: 05px;
+  margin-right: 14px;
+    height: 30px;
+}
+.butn-1{
+  font-size: 14px;
+  font-weight: 700;
+  margin-left: 20px;
+  border-radius: 4px;
+  vertical-align: middle;
+  height: 42px;
+  width: 152px;
+  /* border: none; */
+  border: 2px solid #ea002a;
+  color: white;
+  background-color: #1c1816;
+}
+.butn-1 > img{
+  vertical-align: middle;
+}
+.del-boy{
+  margin-right: 5px;
+  height: 23px;
+}
+.butn-2{
+  height: 40px;
+  width: 152px;
+  font-size: 14px;
+  font-weight: 700;
+  margin-left: 10px;
+  border-radius: 4px;
+  vertical-align: middle;
+  border: none;
+  color: white;
+  background-color: #1c1816;
+}
+.butn-2 > img{
+  vertical-align: middle;}
+.del-boy{
+  margin-right: 5px;
+  height: 23px;
+}
+.div2{
+  display: flex;
+  justify-content: center;
+  
+
+}
+.buck{
+
+  height: 35px;
+  margin-right: 20px;
+}
+.log{
+  cursor: pointer;
+    margin-right: 49px;
+    font-weight: 600;
+    font-size: 14px;
+    color: white;
+    background-color:#ea002a;
+    height: 37px;
+    width: 65px;
+    border-radius: 4px;
+    border: none;
+}
+.div3{
+background-image: url(./images/naseem.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+width: 100%;
+height: 80vh;
+}
+.div4{
+  background-color: #ea002a;
+  color: blanchedalmond;
+  height: 30px;
+  width: 45%;
+  margin-top: 20px;
+  border: none;
+  margin-left: 28%;
+  font-weight: 700;
+  font-size: 14px;
+  border-radius: 4px;
+}
+.div5{
+    margin-top: 35px;
+    margin-left: 8.5%;
+    width: 70%;
+
+}
+.exme{
+  cursor: pointer;
+  background-color: black;
+  font-size: 25px; 
+  font-weight: 700;
+  font-family:  system-ui,-apple-system,"Segoe UI",Roboto,"Helvetica Neue","Noto Sans","Liberation Sans",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+  
+  margin-top: 35px;
+  color: white;}
+  
+  .line{
+    background-color: #ea002a;
+    height: 1px;
+    text-align: center;
+    width: 60px;
+    margin-top: 6px;
+    border: 1px solid #ea002a;
+  }
+  .body-div4{
+    margin-left: 7.9%;
+    width: 85%;
+    display: flex;
+    margin-top: 90px; 
+    margin-bottom: 50px;
+
+  }
+.div-b1{
+  border-radius: 100px 100px 10px 100px;
+  width: 195px;
+  height: 205px;
+  background-color: #1c1816;
+
+}
+
+
+.img1{
+  width: 180px;
+  height: 160px;
+  margin-top: -10px;
+  margin-left: 10px ;
+}
+.text1{
+  margin-left: 45px;
+  margin-bottom: 20px;
+  color: white;
+  font-family:  system-ui,-apple-system,"Segoe UI",Roboto,"Helvetica Neue","Noto Sans","Liberation Sans",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+}
+ 
